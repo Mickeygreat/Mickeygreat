@@ -8,9 +8,12 @@ From becoming a TA teaching economics in English at National Dong Hwa University
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.google.com/search?q=r+programming+language+icon&sxsrf=ALeKk03VxmeTaScU3uBaIhnrFohlH0yw_A:1609308611484&tbm=isch&source=iu&ictx=1&fir=zYvxUnn8tHjwXM%252CohBHh0JBZZzDSM%252C_&vet=1&usg=AI4_-kRiGJ-xziB8mJHMwOLOvbjbR_flsw&sa=X&ved=2ahUKEwiQ5fvghfXtAhVEnFkKHcG1B9AQ9QF6BAgREAE&biw=1920&bih=923#imgrc=zYvxUnn8tHjwXM"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg"/>
+<!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/> -->
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/>
+<!-- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src=""/> -->
 <br />
