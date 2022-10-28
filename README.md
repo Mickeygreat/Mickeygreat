@@ -1,4 +1,6 @@
-# Mickey Yeh 
+# Mickey Yeh 🌱
+
+**`The Analyst(Data Science/Machiene Learning/Data Mining)`**
 
 <!--
 **Mickeygreat/Mickeygreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
