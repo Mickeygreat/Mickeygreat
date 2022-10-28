@@ -1,6 +1,6 @@
 # Mickey Yeh 🌱
 
-**`The Analyst(Data Science/Machine Learning/Data Mining)`**
+**`The Rising Analyst (Data Science/Machine Learning/Data Mining)`**
 
 <!--
 **Mickeygreat/Mickeygreat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
