@@ -1,4 +1,4 @@
-# Mickey Yeh 💪🏻
+# Mickey Yeh 🌱
 
 **`Rising Analyst (Data Science/Machine Learning/Data Mining)`**
 
