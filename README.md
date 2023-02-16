@@ -20,7 +20,7 @@ From becoming a TA teaching economics in English at National Dong Hwa University
 <br />
 
 #
-### 💻 Mickey's Portfolio
+### 💻 My Portfolio
 https://mickeygreat.github.io/MickeyYehPortfolio/
 
 
