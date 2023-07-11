@@ -50,38 +50,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 ## FEATURED PROJECTS
 
-<!-- First Row: Will present 2 projects in one row -->
 
-<p align='center'>
-    <a href='https://github.com/mickeygreat/MickeyYehPortfolio'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=MickeyYehPortfolio&theme=transparent'  width='350'/>
-    </a>
-    <a href='https://github.com/Mickeygreat/Research_Assistant'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Research_Assistant&theme=transparent'  width='350'/>
-    </a>
-</p>
-
-<!-- Second Row: Paste the set of codes below -->
-
-<p align='center'>
-    <a href='https://github.com/mickeygreat/mickeygreat'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=mickeygreat&theme=transparent'  width='350'/>
-    </a>
-    <a href='https://github.com/mickeygreat/Data-Driven-Development-with-Python'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Data-Driven-Development-with-Python&theme=transparent'  width='350'/>
-    </a>
-</p>
-
-<!-- Third Row: Paste the set of codes below -->
-
-<p align='center'>
-    <a href='https://github.com/mickeygreat/Customer-Relationship-Marketing-Analysis'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Customer-Relationship-Marketing-Analysis&theme=transparent'  width='350'/>
-    </a>
-    <a href='https://github.com/mickeyyeh/Hotel-Consulting-Project'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Hotel-Consulting-Project&theme=transparent&hide=html' width='350'/>
-    </a>
-</p>
 
 
 
