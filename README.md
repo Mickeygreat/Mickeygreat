@@ -4,7 +4,7 @@
 
 From becoming a TA teaching economics in English at National Dong Hwa University(NDHU, Taiwan), to becoming a Founder of an e-commerce company as a sophomore, to becoming the only 3 Excellent TA invited to share experiences in an NDHU publication, and to now studying MS Business Analytics at one of the Best Business Schools in the world(Bentley University), who can make impacts in the world of big data. I constantly challenge myself to learn outside my comfort zone and always aim for the sky to be the best version of myself. Now, I am a Data Science Research Assistant at Bentley University, trying to impact the world with my data science knowledge.
 
-💻 [`My Portfolio`](https://mickeygreat.github.io/MickeyYeh-Portfolio/)
+💻 [`My Portfolio`](https://mickeygreat.github.io/MickeyYehPortfolio/)
 
 ## ⚔️ Other Personal Achievements
 🏆 NESS STATATHON 2023 - Finalist <br>
@@ -53,8 +53,8 @@ https://home.aveek.io/GitHub-Profile-Badges/
 <!-- First Row: Will present 2 projects in one row -->
 
 <p align='center'>
-    <a href='https://github.com/mickeygreat/MickeyYeh-Portfolio'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=MickeyYeh-Portfolio&theme=transparent'  width='350'/>
+    <a href='https://github.com/mickeygreat/MickeyYehPortfolio'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=MickeyYehPortfolio&theme=transparent'  width='350'/>
     </a>
     <a href='https://github.com/Mickeygreat/Research-Assistant-Sample'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Research-Assistant-Sample&theme=transparent'  width='350'/>
