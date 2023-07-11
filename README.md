@@ -67,19 +67,19 @@ https://home.aveek.io/GitHub-Profile-Badges/
     <a href='https://github.com/mickeygreat/mickeygreat'>
         <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=mickeygreat&theme=transparent'  width='350'/>
     </a>
-    <a href='https://github.com/mickeygreat/CS602-Data-Driven-Development-with-Python'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=CS602-Data-Driven-Development-with-Python&theme=transparent'  width='350'/>
+    <a href='https://github.com/mickeygreat/Data-Driven-Development-with-Python'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Data-Driven-Development-with-Python&theme=transparent'  width='350'/>
     </a>
 </p>
 
 <!-- Third Row: Paste the set of codes below -->
 
 <p align='center'>
-    <a href='https://github.com/mickeygreat/MK726-Customer-Data-Analysis-Relationship-Marketing'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=MK726-Customer-Data-Analysis-Relationship-Marketing&theme=transparent'  width='350'/>
+    <a href='https://github.com/mickeygreat/Customer-Relationship-Marketing-Analysis'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Customer-Relationship-Marketing-Analysis&theme=transparent'  width='350'/>
     </a>
-    <a href='https://github.com/mickeyyeh/Consulting-project-for-Chateau-de-Chine-Hotel-Hualien'>
-        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Consulting-project-for-Chateau-de-Chine-Hotel-Hualien&theme=transparent&hide=html' width='350'/>
+    <a href='https://github.com/mickeyyeh/Hotel-Consulting-Project'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=mickeygreat&repo=Hotel-Consulting-Project&theme=transparent&hide=html' width='350'/>
     </a>
 </p>
 
